@@ -1,1 +1,1 @@
-# IS-project-malicious-URL-detector
+# This repository presents a hybrid approach that integrates Ontology-based Knowledge Representation, Explainable AI (XAI) techniques like LIME and SHAP, and Ensemble Machine Learning models to predict the risk of heart disease. We aim to understand not just the prediction outcome, but also how much each input attribute contributes to the final result — making the model interpretable and trustworthy for healthcare settings.
